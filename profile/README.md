@@ -1,6 +1,16 @@
 # Open Society
 
-## Personal Notes for now.
+## About (Word Soup+Salad)
+### Why Go?
+- Simple, fast, accessible. Easy for open source community to open any part of the code base and understand what's going on.
+
+
+
+
+
+
+
+### Misc
 
 ## Research:
 
