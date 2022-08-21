@@ -1,4 +1,5 @@
 # Open Society
+Experimental crowd-sourced and open source civic and sociological research, education, and investigation platform.  
 
 ## About (Word Soup+Salad)
 ### Why Go?
