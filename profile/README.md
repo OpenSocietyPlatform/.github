@@ -1,4 +1,4 @@
-# OpenSocietyPlatform
+# Open Society
 
 ## Personal Notes for now.
 
