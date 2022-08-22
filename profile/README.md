@@ -1,5 +1,5 @@
 # Open Society (WIP About Page)
-Experimental crowd-sourced and open source civic and sociological research, education, and investigation platform.  
+Experimental crowd-sourced and open source civic, sociological, and public accountability research, education, and investigation platform. 
 
 ## About (Word Soup+Salad)
 ### Why Go?
