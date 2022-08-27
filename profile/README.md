@@ -6,7 +6,7 @@ Experimental, crowd-sourced & open source civic, sociological, and public accoun
 #### [2. Resources](github.com/OpenSocietyPlatform/resources)
 #### [3. External Clients](github.com/OpenSocietyPlatform/resources)
 
-
+## [Tools](#tools)
 #### Lemon - Ontology Creation/Management
 #### Snafu - distributed p2p "AP" kv kg triplestore. Optimized for RDF. Requirements are TBD.  
 #### SvelteGraph - Engine for most of the Graph Visualizations
