@@ -2,21 +2,14 @@
 Experimental, crowd-sourced & open source civic, sociological, and public accountability research, education, and investigation platform. 
 
 ## What You'll Find in This Org:
-### Docs  
-### External Clients  
-  
-### Lemon
-- Ontology Creation/Management
-
-### Snafu
-- distributed p2p "AP" kv kg triplestore. Optimized for RDF. Requirements are TBD.  
-
-### SvelteGraph
-- Engine for most of the Graph Visualizations
-
-### Libraries
-#### - go-httpclient
-#### - go-alog
+#### Docs  
+#### External Clients  
+#### Lemon - Ontology Creation/Management
+#### Snafu - distributed p2p "AP" kv kg triplestore. Optimized for RDF. Requirements are TBD.  
+#### SvelteGraph - Engine for most of the Graph Visualizations
+## Libraries
+#### go-httpclient
+#### go-alog
 
 
 ## About (Word Soup+Salad)...
