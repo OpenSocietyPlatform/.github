@@ -1,5 +1,4 @@
 # Open Society (WIP)
-Experimental, crowd-sourced & open source civic, sociological, and public accountability research, education, and investigation platform. 
 
 ## [Core](#core)
 #### [1. Docs](github.com/OpenSocietyPlatform/docs)  
