@@ -1,12 +1,10 @@
 # Open Society (WIP About Page)
-Experimental crowd-sourced and open source civic, sociological, and public accountability research, education, and investigation platform. 
+Experimental, crowd-sourced & open source civic, sociological, and public accountability research, education, and investigation platform. 
 
-## What You'll Find in This Repo (or Price's... for now)
-
-### Docs -- Most Importantly
-
-### External API Clients
-
+## What You'll Find in This Org:
+### Docs  
+### External Clients  
+  
 ### Lemon
 - Ontology Creation/Management
 
