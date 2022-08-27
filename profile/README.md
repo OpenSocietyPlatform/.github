@@ -3,10 +3,10 @@ Experimental crowd-sourced and open source civic, sociological, and public accou
 
 ## What You'll Find in This Repo (or Price's... for now)
 
-### External API Clients
+### - External API Clients
 
-### Lemon
-Ontology Creation/Management
+### - Lemon
+- Ontology Creation/Management
 
 ### Snafu
 distributed p2p "AP" kv kg triplestore. Optimized for RDF. Requirements are TBD.  
