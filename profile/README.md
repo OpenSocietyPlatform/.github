@@ -1,16 +1,16 @@
 # OSP
-
+  
 ## [Core](#core)
 #### [1. Docs](github.com/OpenSocietyPlatform/docs)  
 #### [2. Resources](github.com/OpenSocietyPlatform/resources)
 #### [3. External Clients](github.com/OpenSocietyPlatform/resources)
-
+  
 ## [Tools](#tools)
 #### [Lemon](github.com/OpenSocietyPlatform/lemon)
 #### [Snafu](github.com/OpenSocietyPlatform/snafu)
 #### [SvelteGraph](github.com/OpenSocietyPlatform/sveltegraph)
-
-## Libraries(#libraries)
+  
+## [Libraries](#libraries)
 #### [go-httpclient](github.com/OpenSocietyPlatform/go-httpclient)
 #### [go-alog](github.com/OpenSocietyPlatform/go-alog)
 
