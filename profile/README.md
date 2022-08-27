@@ -1,8 +1,8 @@
 # Open Society (WIP About Page)
 Experimental, crowd-sourced & open source civic, sociological, and public accountability research, education, and investigation platform. 
 
-## What You'll Find in This Org:
-#### Docs  
+### 1. [Docs](github.com/OpenSocietyPlatform/docs)  
+### 2. [Resources](github.com/OpenSocietyPlatform/resources)
 #### External Clients  
 #### Lemon - Ontology Creation/Management
 #### Snafu - distributed p2p "AP" kv kg triplestore. Optimized for RDF. Requirements are TBD.  
