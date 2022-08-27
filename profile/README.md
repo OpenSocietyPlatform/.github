@@ -6,13 +6,13 @@
 #### [3. External Clients](github.com/OpenSocietyPlatform/resources)
 
 ## [Tools](#tools)
-#### Lemon - Ontology Creation/Management
-#### Snafu - distributed p2p "AP" kv kg triplestore. Optimized for RDF. Requirements are TBD.  
-#### SvelteGraph - Engine for most of the Graph Visualizations
+#### [Lemon](github.com/OpenSocietyPlatform/lemon)
+#### [Snafu](github.com/OpenSocietyPlatform/snafu)
+#### [SvelteGraph](github.com/OpenSocietyPlatform/sveltegraph)
 
-## Libraries
-#### go-httpclient
-#### go-alog
+## Libraries(#libraries)
+#### [go-httpclient](github.com/OpenSocietyPlatform/go-httpclient)
+#### [go-alog](github.com/OpenSocietyPlatform/go-alog)
 
 
 ## About (Word Soup+Salad)...
