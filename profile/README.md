@@ -1,9 +1,21 @@
 # Open Society (WIP About Page)
 Experimental crowd-sourced and open source civic, sociological, and public accountability research, education, and investigation platform. 
 
-## About (Word Soup+Salad)
+## What You'll Find in This Repo (or Price's... for now)
 
-## About the Code Base
+### Lemon
+Ontology Creation/Management
+
+### Snafu
+distributed p2p "AP" kv kg triplestore. Optimized for RDF. Requirements are TBD.  
+
+### SvelteGraph
+Engine for most of the Graph Visualizations
+
+
+## About (Word Soup+Salad)...
+
+### ...the Code Base
 
 ### Main Ideas
 
