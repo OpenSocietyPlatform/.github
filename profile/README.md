@@ -1,4 +1,4 @@
-# O|S|P (WIP Page)
+# OSP
 
 ## [Core](#core)
 #### [1. Docs](github.com/OpenSocietyPlatform/docs)  
