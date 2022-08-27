@@ -1,4 +1,4 @@
-# Open Society (WIP -- Please Help Tidy)
+# Open Society (WIP)
 Experimental, crowd-sourced & open source civic, sociological, and public accountability research, education, and investigation platform. 
 
 ## [Core](#core)
