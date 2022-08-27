@@ -1,12 +1,16 @@
 # Open Society (WIP -- Please Help Tidy)
 Experimental, crowd-sourced & open source civic, sociological, and public accountability research, education, and investigation platform. 
 
-### [1. Docs](github.com/OpenSocietyPlatform/docs)  
-### [2. Resources](github.com/OpenSocietyPlatform/resources)
+## [Core](#core)
+#### [1. Docs](github.com/OpenSocietyPlatform/docs)  
+#### [2. Resources](github.com/OpenSocietyPlatform/resources)
 #### [3. External Clients](github.com/OpenSocietyPlatform/resources)
+
+
 #### Lemon - Ontology Creation/Management
 #### Snafu - distributed p2p "AP" kv kg triplestore. Optimized for RDF. Requirements are TBD.  
 #### SvelteGraph - Engine for most of the Graph Visualizations
+
 ## Libraries
 #### go-httpclient
 #### go-alog
