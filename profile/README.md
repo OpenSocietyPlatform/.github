@@ -2,6 +2,17 @@
 Experimental crowd-sourced and open source civic, sociological, and public accountability research, education, and investigation platform. 
 
 ## About (Word Soup+Salad)
+
+## About the Code Base
+
+### Main Ideas
+
+### React vs not-React
+
+### 
+
+
+
 ### Why Go?
 - Simple, fast, accessible. Easy for open source community to open any part of the code base and understand what's going on.
 
