@@ -10,6 +10,9 @@ Data monopolies, big tech tools for specialists and for large institutions. Time
 - Can feed in an article you want proofed.. Hopefully you get something out of it? 
   - Proofing can go fetch sited articles... or try?
 
+## General ETL
+Data provider -tabular-data-> RDF Mapping -> Bunch of other stuff -> Presentation and Query Layer
+
 ## General Questions
 ### Why Reinvent the Wheel?
 - 
