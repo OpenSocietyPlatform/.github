@@ -40,7 +40,23 @@ Data provider -tabular-data-> RDF Mapping -> Bunch of other stuff -> Presentatio
 
 ## Research:
 
-### Technical Implimentation
+## Impl
+### DB
+**Overview**. In general, two modules exist outside the
+database engine to handle RDF data and queries: (1) an RDF
+import module, and (2) an RDF query module. Our proposed
+data-centric schema creation technique exists inside the RDF
+import module. The schema creation process takes as input an
+RDF data set. The output of our technique is a schema (i.e., a
+set of relational tables) used to store the imported RDF data
+in the underlying DBMS.  
+**Problem Definition**. Given a data set of RDF triples,
+generate a relational table schema that achieves the following
+criteria. (1) Maximize the likelihood that queries will access
+properties in the same table without causing a join and
+(2) Minimize the amount of unnecessary data processing by
+reducing extra data storage (e.g., null storage).  
+
 #### KV Stores
 - Badger
 - Bolt
