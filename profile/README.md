@@ -1,4 +1,4 @@
-# OSP
+# Open Society
 
 ## About
 Public/Private Sector Observability Platform
