@@ -23,9 +23,8 @@ Data provider -tabular-data-> RDF Mapping -> Bunch of other stuff -> Presentatio
 
 ### React vs not-React
 
-### 
-
-
+### Requirements
+- DHT for inferred RDF updates and commits. 
 
 ### Why Go?
 - Simple, fast, accessible. Easy for open source community to open any part of the code base and understand what's going on.
