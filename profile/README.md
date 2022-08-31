@@ -7,7 +7,7 @@ A Public/Private Sector Observability Platform
 It's essentially a semantic search engine and research tool for massive amounts of otherwise silo'd and heterogeneous data aimed at public and private sector data. More on this below. 
 
 ## Requirements [WIP]
-### User Requirements [WIP] 
+### User Requirements Specification [WIP] 
 #### User Archetypes
 #### User Stories [WIP, Unordered/Unorganized]
 ##### As a _ user... 
@@ -42,6 +42,8 @@ Data provider -tabular-data-> RDF Mapping -> Bunch of other stuff -> Presentatio
 ## General Questions
 ### Why Reinvent the Wheel?
 - 
+
+### Compliance
 
 ## Code Base
 
