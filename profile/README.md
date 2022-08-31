@@ -2,14 +2,15 @@
 A Public/Private Sector Observability Platform
 
 <!--- Table of Contents (This shit's gonna be long until it's organized and put into different folders... if that's needed. --->
+*This page is a major work in progress. If you have any thoughts or questions, chances are you know me very well, so just reach out.*
 
 ## About
 It's essentially a semantic search engine and research tool for massive amounts of otherwise silo'd and heterogeneous data aimed at public and private sector data. More on this below. 
 
-## Requirements [WIP]
-### User Requirements Specification [WIP] 
+## Requirements
+### User Requirements Specification
 #### User Archetypes
-#### User Stories [WIP, Unordered/Unorganized]
+#### User Stories
 ##### As a _ user... 
 <!--- https://docs.google.com/document/d/1fNbXKb1EVygJ3O6lIzXXfS8r12xxaPbSys4P-IbUlcc/edit -- for an old scratch list --->
 <!--- would like to keep these lines from wrapping for readability. Not a priority at the moment, but something to think about. --->
