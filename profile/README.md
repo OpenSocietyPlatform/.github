@@ -1,5 +1,5 @@
 # OPEN SOCIETY
-A Public/Private Sector Observability Platform
+**A Public/Private Sector Observability Platform**
 <!--- Table of Contents (This shit's gonna be long until it's organized and put into different folders... if that's needed. --->
 *This page is a major, major work in progress. If you have any thoughts or questions, chances are you know me very well, so just reach out.*
 
@@ -32,6 +32,7 @@ It's essentially a semantic search engine and research tool for massive amounts 
 Data monopolies, big tech tools for specialists and for large institutions. Time to better educate people on big tech. Allows for proofing and supporting articles through embedding. 
 -->
 
+<!-- 
 ## Features
 - Can feed in an article you want proofed.. Hopefully you get something out of it? 
   - Proofing can go fetch sited articles... or try?
@@ -50,18 +51,11 @@ Data provider -tabular-data-> RDF Mapping -> Bunch of other stuff -> Presentatio
 ### Main Ideas
 
 ### React vs not-React
-
 ### Requirements
 - DHT for inferred RDF updates and commits. 
 
 ### Why Go?
 - Simple, fast, accessible. Easy for open source community to open any part of the code base and understand what's going on.
-
-
-
-
-
-
 
 ### Misc
 
@@ -91,6 +85,7 @@ reducing extra data storage (e.g., null storage).
 - Pebble
 
 - gStore vs Jena
+-->
 
 <!--
 
