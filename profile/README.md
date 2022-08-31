@@ -25,7 +25,6 @@ It's essentially a semantic search engine and research tool for massive amounts 
 - I want to be able to look at the actions taken on someones shared sandbox. 
 - I would like to export RDF data for my own purposes. 
 - I would like to learn more about corporate grouping infrastructures. 
--  
 
 <!-- 
 ## Background
