@@ -20,7 +20,7 @@ It's essentially a semantic search engine and research tool for massive amounts 
 - I want to be able to create a data sandbox for the purposes of teaching, sharing it among students. 
 - I want to be able to create a data sandbox for the purposes of supporting an article I am writing. 
 - I want to be able to create a data sandbox and embed it, or a visualization, linking back to reproducible data, into an article. 
-- I want to feed an article or paper into the platform in some way and have a starter graph full of relevant keys, tokens, words generated for me. 
+- I want to feed an article or paper into the platform and have a starter graph full of relevant keys, tokens, and words generated.
 - I want to be able to check the lineage of all data to its source, whether primary or not. 
 - I want to be able to look at the actions taken on someones shared sandbox. 
 - I would like to export RDF data for my own purposes. 
