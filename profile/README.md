@@ -1,10 +1,11 @@
 # Open Society
+A Public/Private Sector Observability Platform
 
 ## About
-Public/Private Sector Observability Platform
+-- It's essentially a semantic search engine for massive amounts of otherwise silo'd and heterogeneous data. More on this below. 
 
 ## Background
-Data monopolies, big tech tools for specialists and for large institutions. Time to better educate people on big tech. Allows for proofing and supporting articles through embedding. 
+<!-- Data monopolies, big tech tools for specialists and for large institutions. Time to better educate people on big tech. Allows for proofing and supporting articles through embedding. -->
 
 ## Features
 - Can feed in an article you want proofed.. Hopefully you get something out of it? 
