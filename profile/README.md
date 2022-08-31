@@ -1,8 +1,17 @@
-# Open Society
+# OPEN SOCIETY
 A Public/Private Sector Observability Platform
 
 ## About
 It's essentially a semantic search engine and research tool for massive amounts of otherwise silo'd and heterogeneous data aimed at public and private sector data. More on this below. 
+
+## Requirements
+### User Requirements
+#### User Stories
+##### As a _ user...
+- I want to know what company owns a given company and which companies a given company owns. 
+- I want to learn more about the corporate network of private prison systems. 
+- I would like to search through public and corporate ongoings spanning specifically in the time of a given "news cycle". 
+- 
 
 <!-- 
 ## Background
