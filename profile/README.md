@@ -1,7 +1,7 @@
 # OPEN SOCIETY
 A Public/Private Sector Observability Platform
 <!--- Table of Contents (This shit's gonna be long until it's organized and put into different folders... if that's needed. --->
-<sub>*This page is a major, major work in progress. If you have any thoughts or questions, chances are you know me very well, so just reach out.*</sub>
+*This page is a major, major work in progress. If you have any thoughts or questions, chances are you know me very well, so just reach out.*
 
 ## About
 It's essentially a semantic search engine and research tool for massive amounts of otherwise silo'd and heterogeneous data aimed at public and private sector data. More on this below. 
