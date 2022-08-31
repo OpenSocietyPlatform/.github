@@ -2,7 +2,7 @@
 A Public/Private Sector Observability Platform
 
 ## About
--- It's essentially a semantic search engine for massive amounts of otherwise silo'd and heterogeneous data. More on this below. 
+It's essentially a semantic search engine and research tool for massive amounts of otherwise silo'd and heterogeneous data aimed at public and private sector data. More on this below. 
 
 <!-- 
 ## Background
