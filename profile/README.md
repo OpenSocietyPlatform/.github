@@ -1,17 +1,29 @@
 # OPEN SOCIETY
 A Public/Private Sector Observability Platform
 
+<!--- Table of Contents (This shit's gonna be long until it's organized and put into different folders... if that's needed. --->
+
 ## About
 It's essentially a semantic search engine and research tool for massive amounts of otherwise silo'd and heterogeneous data aimed at public and private sector data. More on this below. 
 
-## Requirements
-### User Requirements
-#### User Stories
+## Requirements [WIP]
+### User Requirements [WIP] 
+#### User Archetypes
+#### User Stories [WIP, Unordered/Unorganized]
 ##### As a _ user...
 - I want to know what company owns a given company and which companies a given company owns. 
 - I want to learn more about the corporate network of private prison systems. 
 - I would like to search through public and corporate ongoings spanning specifically in the time of a given "news cycle". 
-- 
+- I want to be able to collaborate on group efforts to discover and uncover data. 
+- I want to be able to create a data sandbox for the purposes of teaching, sharing it among students. 
+- I want to be able to create a data sandbox for the purposes of supporting an article I am writing. 
+- I want to be able to create a data sandbox and embed it, or a visualization, linking back to reproducible data, into an article. 
+- I want to feed an article or paper into the platform in some way and have a starter graph full of relevant keys, tokens, words generated for me. 
+- I want to be able to check the lineage of all data to its source, whether primary or not. 
+- I want to be able to look at the actions taken on someones shared sandbox. 
+- I would like to export RDF data for my own purposes. 
+- I would like to learn more about corporate grouping infrastructures. 
+-  
 
 <!-- 
 ## Background
