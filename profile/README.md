@@ -10,7 +10,8 @@ It's essentially a semantic search engine and research tool for massive amounts 
 ### User Requirements [WIP] 
 #### User Archetypes
 #### User Stories [WIP, Unordered/Unorganized]
-##### As a _ user...
+##### As a _ user... <!--- https://docs.google.com/document/d/1fNbXKb1EVygJ3O6lIzXXfS8r12xxaPbSys4P-IbUlcc/edit -- for an old scratch list --->
+<!--- would like to keep these lines from wrapping for readability. Not a priority at the moment, but something to think about. --->
 - I want to know what company owns a given company and which companies a given company owns. 
 - I want to learn more about the corporate network of private prison systems. 
 - I would like to search through public and corporate ongoings spanning specifically in the time of a given "news cycle". 
