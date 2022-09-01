@@ -10,6 +10,8 @@ It's essentially a semantic search engine and research tool for massive amounts 
 ### User Requirements Specification
 #### User Archetypes
 - Private Citizen
+  - Curious Citizen
+  - Educator
   - Citizen Journalist
   - Investigative Journalist
   - Data Scientist
