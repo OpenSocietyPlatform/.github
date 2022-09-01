@@ -26,6 +26,12 @@ It's essentially a semantic search engine and research tool for massive amounts 
 - I would like to export RDF data for my own purposes. 
 - I would like to learn more about corporate grouping infrastructures. 
 
+## Tech & Companies
+- TerminusDB
+- Cayley
+- Akutan
+- DuckDB
+
 <!-- 
 ## Background
 Data monopolies, big tech tools for specialists and for large institutions. Time to better educate people on big tech. Allows for proofing and supporting articles through embedding. 
