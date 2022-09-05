@@ -75,6 +75,8 @@ Data provider -tabular-data-> RDF Mapping -> Bunch of other stuff -> Presentatio
 - Simple, fast, accessible. Easy for open source community to open any part of the code base and understand what's going on.
 
 ### Misc
+- The "Platform" is for all this to be taking place
+- the "Non-platform" is the emergent power that comes from data being accessible to all
 
 ## Research:
 
