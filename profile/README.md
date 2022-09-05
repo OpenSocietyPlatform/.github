@@ -5,6 +5,7 @@
 
 ## About
 It's essentially a semantic search engine and research tool for massive amounts of otherwise silo'd and heterogeneous data aimed at public and private sector domains. More on this below. 
+- Power comes from the crowd sourced bit... platform enables. 
 
 ## Requirements
 ### User Requirements Specification
