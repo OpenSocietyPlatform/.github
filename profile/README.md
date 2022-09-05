@@ -19,9 +19,12 @@ It's essentially a semantic search engine and research tool for massive amounts 
   - Data Engineer
   - Data Professional
 - Organization
+- 
 #### Use Case Brief
 - Academic Research
 - Journalistic Fact-checking and Integrity
+- Article Embedding
+
 #### User Stories
 ##### As a _ user... 
 <!--- https://docs.google.com/document/d/1fNbXKb1EVygJ3O6lIzXXfS8r12xxaPbSys4P-IbUlcc/edit -- for an old scratch list --->
