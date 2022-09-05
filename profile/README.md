@@ -38,6 +38,13 @@ It's essentially a semantic search engine and research tool for massive amounts 
 - I would like to export RDF data for my own purposes. 
 - I would like to learn more about corporate grouping infrastructures. 
 
+### Technical Requirements
+- Accessible code base
+- Small app/peer size
+- fast, low burden on host machine (usually a personal machine)
+- Ability to recognize "mega-nodes" for load balancing purposes
+## Rust, Go, and TinyGo
+
 ## Tech & Companies
 - TerminusDB
 - Cayley
