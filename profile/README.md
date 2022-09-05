@@ -1,4 +1,4 @@
-# OPEN SOCIETY
+# { openSociety Platform }
 <!-- ## **-- A Public/Private Sector Observability Platform --** -->
 <!-- Table of Contents (This shit's gonna be long until it's organized and put into different folders... if that's needed. -->
 *\*This page is a major, major work in progress. If you have any thoughts or questions, chances are you know me very well, so just reach out. If not, fine the nearest konk shell and blow.*
